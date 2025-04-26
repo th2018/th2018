@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tao Huang.
-- 👀 I’m interested in spatial analysis.
-- 🔭 I’m currently working on **python in hydrology** 
+- 👀 Fascinated by the power of **geospatial analysis** to unlock insights from our world.
+- 🔭 Currently diving deep into the world of **hydrology using Python**. 
 - 📫 How to reach me: tao7753@gmail.com
 
 <!---
